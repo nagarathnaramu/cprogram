@@ -13,4 +13,5 @@ sum=sum+rem^3^3^3;
 printf("sum=%d,rem=%d\n",sum,rem);
 }
 printf("sum=%d\n",sum);
+printf("linux");
 }
